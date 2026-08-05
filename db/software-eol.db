@@ -117,6 +117,7 @@ os:Fedora release 43:2026-12-09:1796770800:
 os:Fedora release 44:2027-06-02:1811887200:
 #
 # FreeBSD - https://www.freebsd.org/security/unsupported.html
+# Upcoming and current release schedule - https://www.freebsd.org/security/#sup
 #
 os:FreeBSD 9.3:2014-12-31:1419980400:
 os:FreeBSD 10.0:2015-02-28:1425078000:
@@ -140,6 +141,10 @@ os:FreeBSD 13.4:2025-06-30:1751234400:
 os:FreeBSD 14.0:2024-09-30:1727647200:
 os:FreeBSD 14.1:2025-03-31:1743372000:
 os:FreeBSD 14.2:2025-09-30:1759183200:
+os:FreeBSD 14.3:2026-06-30:1782774000:
+os:FreeBSD 14.4:2026-12-31:1798671600:
+os:FreeBSD 15.0:2026-09-30:1790722800:
+os:FreeBSD 15.1:2027-03-31:1806447600:
 #
 # Linux Mint
 #
@@ -328,6 +333,9 @@ os:OpenBSD 7.3:2024-04-05:1712268000:
 os:OpenBSD 7.4:2024-10-08:1728338400:
 os:OpenBSD 7.5:2025-05-31:1748642400:
 os:OpenBSD 7.6:2025-10-31:1761865200:
+os:OpenBSD 7.7:2026-05-19:1779141600:
+os:OpenBSD 7.8:2026-10-31:1793401200:
+os:OpenBSD 7.9:2027-05-31:1811714400:
 #
 # Red Hat Enterprise Linux - https://access.redhat.com/labs/plcc/
 #
